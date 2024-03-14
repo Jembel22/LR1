@@ -1,0 +1,7 @@
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\bin\Debug\PR2_git.exe
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\bin\Debug\PR2_git.pdb
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\obj\x86\Debug\PR2_git.Form1.resources
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\obj\x86\Debug\PR2_git.Properties.Resources.resources
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\obj\x86\Debug\PR2_git.csproj.GenerateResource.Cache
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\obj\x86\Debug\PR2_git.exe
+D:\Kashanskii_ITEK22\PR2_git\PR2_git\obj\x86\Debug\PR2_git.pdb
